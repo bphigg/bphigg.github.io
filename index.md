@@ -1,4 +1,5 @@
-Here you can say lots of fun things about your site.
+# Welcome to my ST558 (601) FALL '23 Blog!  
+*This site and account will be used in support of various R programming and R script development projects*
 
 Maybe say a some things about yourself.
 
