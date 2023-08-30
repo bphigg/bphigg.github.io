@@ -4,9 +4,9 @@ description: "blog for course ST 558" # This will show up in places like twitter
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-#email: "example@mail.com"
+email: "brian@email.com"
 #twitter_username: "twitteruser"
-#github_username: "githubuser"
+github_username: "bphigg"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
