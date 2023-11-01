@@ -1,4 +1,4 @@
-# Thoughts on Variable Seletion  
+# Thoughts on Variable Selection  
 
 The fact that there are a number of variable selection techniques available to the statistician underscores the general challenge variable selection poses. No one method is more effective or superior than any other method. Each has its own computational theories on which selection is based and each has its own weaknesses.  
 
