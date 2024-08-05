@@ -1,6 +1,6 @@
 # Project 1 - Data Processing, Summarization, Visualization
 
-[Project 1](https://bphigg.github.io/Project_1/Project_1_brian_higginbotham.html)
+[Project 1](https://bphigg.github.io/Project_1/Project_1_brian_higginbotham.html)  
 [Project 1 Repo](https://github.com/bphigg/Project_1)
 
 The goal of this project was to read in data from the U.S. Census Bureau and produce customizable charts and graphs summarizing population data. The functions for summarization had to be flexible enough to accomadate the different population types from the census files. For example, some files would be for overall US population while for other file types the population was school enrollment.
