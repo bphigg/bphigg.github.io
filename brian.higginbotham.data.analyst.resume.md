@@ -1,3 +1,5 @@
+[pdf version](/brian.higginbotham.data.analyst.resume.pdf){:target="_blank"}
+
 **Brian P. Higginbotham**  
 14 Melrose Ave  
 Asheville, NC 28804  
