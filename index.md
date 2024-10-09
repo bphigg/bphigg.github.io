@@ -11,3 +11,4 @@ My name is **brian higginbotham** and I enjoy exploring, interpreting, and visua
    + including posting links that help solve coding and markdown language problems
 * offering any hard won insights into R and Python scripting
 
+[cv/resume](/brian.higginbotham.data.analyst.resume.md){:target="_blank"}
